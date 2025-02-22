@@ -1,4 +1,4 @@
-const API_URL = "https://personal-94zkstob.outsystemscloud.com/ColaboradoresApi/rest/ColaboradoresAPI";
+const API_URL = "https://personal-94zkstob.outsystemscloud.com/ColaboradoresApi/rest/ColaboradoresAPI/GET";
 
 // Função para listar colaboradores (GET)
 async function getColaboradores() {
